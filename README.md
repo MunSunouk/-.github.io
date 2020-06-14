@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-- [인공지능 사례 분석 ](https://github.com/MunSunouk/munsunouk..github.io/blob/master/1%EC%A3%BC%EC%B0%A8.ipynb)
+- [인공지능 사례 분석 ](https://nbviewer.jupyter.org/github/MunSunouk/munsunouk..github.io/blob/master/1%EC%A3%BC%EC%B0%A8.ipynb)
 
 ## 2주차 과제 (2020.05.29)
 
